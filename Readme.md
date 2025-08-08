@@ -20,13 +20,6 @@ A Real Estate posting web aoplication backend which supports enquiries between b
   </ol>
 </details>
 
-## About The Project
-
-There are 2 modes in this game.<br />
- 1. Play with friend (Need to register first)<br />
- 2. Play against computer<br />
-
-
 ### Built With
 
 * [NodeJS](https://nodejs.org/en/)
