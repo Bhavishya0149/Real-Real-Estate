@@ -41,7 +41,7 @@ Create *.env* file and fill all the details from sample given
 
 ```
 
-Now you are ready to run the server and frontend.
+Now you are ready to run the server.
 <br />
 
 
